@@ -15,51 +15,51 @@
   };
   bat = {
     pname = "bat";
-    version = "b8134f01b0ac176f1cf2a7043a5abf5a1a29457b";
+    version = "d714cc1d358ea51bfc02550dabab693f70cccea0";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "bat";
-      rev = "b8134f01b0ac176f1cf2a7043a5abf5a1a29457b";
+      rev = "d714cc1d358ea51bfc02550dabab693f70cccea0";
       fetchSubmodules = false;
-      sha256 = "sha256-gzf0/Ltw8mGMsEFBTUuN33MSFtUP4xhdxfoZFntaycQ=";
+      sha256 = "sha256-Q5B4NDrfCIK3UAMs94vdXnR42k4AXCqZz6sRn8bzmf4=";
     };
-    date = "2024-04-09";
+    date = "2024-04-25";
   };
   bottom = {
     pname = "bottom";
-    version = "c0efe9025f62f618a407999d89b04a231ba99c92";
+    version = "66c540ea512187df5f0c6c97312b0c6da7225af0";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "bottom";
-      rev = "c0efe9025f62f618a407999d89b04a231ba99c92";
+      rev = "66c540ea512187df5f0c6c97312b0c6da7225af0";
       fetchSubmodules = false;
-      sha256 = "sha256-VaHX2I/Gn82wJWzybpWNqU3dPi3206xItOlt0iF6VVQ=";
+      sha256 = "sha256-Ge2avQXFWEqGPOglJBnH6bjejFGfCyLOqrYcaoAP0XI=";
     };
-    date = "2022-12-30";
+    date = "2024-05-13";
   };
   btop = {
     pname = "btop";
-    version = "c6469190f2ecf25f017d6120bf4e050e6b1d17af";
+    version = "21b8d5956a8b07fa52519e3267fb3a2d2e693d17";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "btop";
-      rev = "c6469190f2ecf25f017d6120bf4e050e6b1d17af";
+      rev = "21b8d5956a8b07fa52519e3267fb3a2d2e693d17";
       fetchSubmodules = false;
-      sha256 = "sha256-jodJl4f2T9ViNqsY9fk8IV62CrpC5hy7WK3aRpu70Cs=";
+      sha256 = "sha256-UXeTypc15MhjgGUiCrDUZ40m32yH2o1N+rcrEgY6sME=";
     };
-    date = "2023-10-07";
+    date = "2024-05-14";
   };
   cava = {
     pname = "cava";
-    version = "56c1e69318856a853b28e3ccce500c00099dc051";
+    version = "6ec25ba688e30f3e5d6004ef6a295e6ba90c64d4";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "cava";
-      rev = "56c1e69318856a853b28e3ccce500c00099dc051";
+      rev = "6ec25ba688e30f3e5d6004ef6a295e6ba90c64d4";
       fetchSubmodules = false;
-      sha256 = "sha256-FNNEYFurT6Y6rkKrvyAGt+3a+7GO4UE5el2sJ2ZKX2k=";
+      sha256 = "sha256-1+CCUaf8U/NH/eHuYRbQo8inbhSMJ3vji6UH52hrF1s=";
     };
-    date = "2024-04-01";
+    date = "2024-05-25";
   };
   delta = {
     pname = "delta";
@@ -99,51 +99,51 @@
   };
   fish = {
     pname = "fish";
-    version = "0ce27b518e8ead555dec34dd8be3df5bd75cff8e";
+    version = "a3b9eb5eaf2171ba1359fe98f20d226c016568cf";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "fish";
-      rev = "0ce27b518e8ead555dec34dd8be3df5bd75cff8e";
+      rev = "a3b9eb5eaf2171ba1359fe98f20d226c016568cf";
       fetchSubmodules = false;
-      sha256 = "sha256-Dc/zdxfzAUM5NX8PxzfljRbYvO9f9syuLO8yBr+R3qg=";
+      sha256 = "sha256-shQxlyoauXJACoZWtRUbRMxmm10R8vOigXwjxBhG8ng=";
     };
-    date = "2023-11-02";
+    date = "2024-05-14";
   };
   foot = {
     pname = "foot";
-    version = "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca";
+    version = "80756a4d63ea4fae4d0fdd793017370f8b8b12ac";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "foot";
-      rev = "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca";
+      rev = "80756a4d63ea4fae4d0fdd793017370f8b8b12ac";
       fetchSubmodules = false;
-      sha256 = "sha256-3hK9klXwdHhprG2wUMt7nBfbL1mb/gl+k/MtJUuY000=";
+      sha256 = "sha256-h6+7ln/i+FRSfWX2aSLhrxFO4mYJgH2pzzhe2Zz9Q4k=";
     };
-    date = "2024-01-18";
+    date = "2024-06-06";
   };
   gh-dash = {
     pname = "gh-dash";
-    version = "cb9fea0b86c300b26f1211079d656d02a7eb2c62";
+    version = "a971447dbb6e43c274ce52697c0bd381735c3c8a";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "gh-dash";
-      rev = "cb9fea0b86c300b26f1211079d656d02a7eb2c62";
+      rev = "a971447dbb6e43c274ce52697c0bd381735c3c8a";
       fetchSubmodules = false;
-      sha256 = "sha256-IpEkLKXCs7H0SH4UDZy9JMcNQPEg/50f/5SlezdnL80=";
+      sha256 = "sha256-zbFOjg097LN+FRsagnYOdfaDb0tGNJPYkoxTbYK/4HA=";
     };
     date = "2024-04-27";
   };
   gitui = {
     pname = "gitui";
-    version = "39978362b2c88b636cacd55b65d2f05c45a47eb9";
+    version = "c7661f043cb6773a1fc96c336738c6399de3e617";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "gitui";
-      rev = "39978362b2c88b636cacd55b65d2f05c45a47eb9";
+      rev = "c7661f043cb6773a1fc96c336738c6399de3e617";
       fetchSubmodules = false;
-      sha256 = "sha256-kWaHQ1+uoasT8zXxOxkur+QgZu1wLsOOrP/TL+6cfII=";
+      sha256 = "sha256-CRxpEDShQcCEYtSXwLV5zFB8u0HVcudNcMruPyrnSEk=";
     };
-    date = "2023-11-13";
+    date = "2024-05-25";
   };
   glamour = {
     pname = "glamour";
@@ -171,39 +171,39 @@
   };
   gtk = {
     pname = "gtk";
-    version = "9da440ced621d1bff58676efdcec9f64284c52a6";
+    version = "23b52b5b9cde1e11c07315e79a55804d2ac77e3a";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "gtk";
-      rev = "9da440ced621d1bff58676efdcec9f64284c52a6";
+      rev = "23b52b5b9cde1e11c07315e79a55804d2ac77e3a";
       fetchSubmodules = false;
-      sha256 = "sha256-pGL8vaE63ss2ZT2FoNDfDkeuCxjcbl02RmwwfHC/Vxg=";
+      sha256 = "sha256-4tBGN+Rra6C2pjkoLWmNqaYUwpzALsYrn4tkYGUtQl4=";
     };
-    date = "2024-04-20";
+    date = "2024-06-02";
   };
   helix = {
     pname = "helix";
-    version = "0164c4ca888084df4f511da22c6a0a664b5061d2";
+    version = "bbbc0873238ac8979fb11748b322b61507317d50";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "helix";
-      rev = "0164c4ca888084df4f511da22c6a0a664b5061d2";
+      rev = "bbbc0873238ac8979fb11748b322b61507317d50";
       fetchSubmodules = false;
-      sha256 = "sha256-8d+cGlyW0vurrww0vPETCr077JHibUQTpnTUOLjeObs=";
+      sha256 = "sha256-eukktvsgW881pHmfWcngFHe9UsIO54/v9VFz49GqGcc=";
     };
-    date = "2024-03-30";
+    date = "2024-06-07";
   };
   hyprland = {
     pname = "hyprland";
-    version = "b57375545f5da1f7790341905d1049b1873a8bb3";
+    version = "c388ac55563ddeea0afe9df79d4bfff0096b146b";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "hyprland";
-      rev = "b57375545f5da1f7790341905d1049b1873a8bb3";
+      rev = "c388ac55563ddeea0afe9df79d4bfff0096b146b";
       fetchSubmodules = false;
-      sha256 = "sha256-XTqpmucOeHUgSpXQ0XzbggBFW+ZloRD/3mFhI+Tq4O8=";
+      sha256 = "sha256-xSa/z0Pu+ioZ0gFH9qSo9P94NPkEMovstm1avJ7rvzM=";
     };
-    date = "2024-04-03";
+    date = "2024-06-19";
   };
   imv = {
     pname = "imv";
@@ -219,39 +219,39 @@
   };
   k9s = {
     pname = "k9s";
-    version = "82eba6feb442932e28facedfb18dfbe79234f180";
+    version = "e08b9302aee2b7193d6fcc3a9ffd2f24d2957dbf";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "k9s";
-      rev = "82eba6feb442932e28facedfb18dfbe79234f180";
+      rev = "e08b9302aee2b7193d6fcc3a9ffd2f24d2957dbf";
       fetchSubmodules = false;
-      sha256 = "sha256-VLi7G6Rjmbr6feSOg8aLYJmOb+GyJUKi3k9qod6ut9k=";
+      sha256 = "sha256-tg+xFNj9wkWFcD9bXDor/VCZVosoAH+8grz5FY5QgnM=";
     };
-    date = "2024-03-22";
+    date = "2024-05-31";
   };
   kitty = {
     pname = "kitty";
-    version = "d7d61716a83cd135344cbb353af9d197c5d7cec1";
+    version = "1f99e6682d84fe4d8e3177d3add8d0591607a2ac";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "kitty";
-      rev = "d7d61716a83cd135344cbb353af9d197c5d7cec1";
+      rev = "1f99e6682d84fe4d8e3177d3add8d0591607a2ac";
       fetchSubmodules = false;
-      sha256 = "sha256-mRFa+40fuJCUrR1o4zMi7AlgjRtFmii4fNsQyD8hIjM=";
+      sha256 = "sha256-Y51wmGRYDjxbgO/g66+aBA+uOVrQpv2rQIjxbuzm0uk=";
     };
-    date = "2024-01-10";
+    date = "2024-06-01";
   };
   lazygit = {
     pname = "lazygit";
-    version = "30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6";
+    version = "21a25afd92327ddea8446ab9171ca7039b431e9e";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "lazygit";
-      rev = "30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6";
+      rev = "21a25afd92327ddea8446ab9171ca7039b431e9e";
       fetchSubmodules = false;
-      sha256 = "sha256-mmNA7MpORvdCb37myo2QqagPK46rxRxD0dvUMsHegEM=";
+      sha256 = "sha256-jQjg4YHIj321+dLoCxI0bjf2QYKvpINwqeicx9vqZmE=";
     };
-    date = "2024-03-31";
+    date = "2024-06-04";
   };
   mako = {
     pname = "mako";
@@ -267,99 +267,99 @@
   };
   micro = {
     pname = "micro";
-    version = "ed8ef015f97c357575b5013e18042c9faa6c068a";
+    version = "a67be21b9d2cf9f57911bb2cd9a6d8fb2c8d8e5a";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "micro";
-      rev = "ed8ef015f97c357575b5013e18042c9faa6c068a";
+      rev = "a67be21b9d2cf9f57911bb2cd9a6d8fb2c8d8e5a";
       fetchSubmodules = false;
-      sha256 = "sha256-/JwZ+5bLYjZWcV5vH22daLqVWbyJelqRyGa7V0b7EG8=";
+      sha256 = "sha256-HFzcp3u9U3JrPqJdOYvjOTRDJA5bSE9lH6C5EmUmyrw=";
     };
-    date = "2022-09-27";
+    date = "2024-06-10";
   };
   mpv = {
     pname = "mpv";
-    version = "db31f00b5107320f8882eb8c727060d5eab702c9";
+    version = "6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "mpv";
-      rev = "db31f00b5107320f8882eb8c727060d5eab702c9";
+      rev = "6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b";
       fetchSubmodules = false;
-      sha256 = "sha256-QxPUjd2Y4FpvEg2aYrKkJVkLNfYtESryY+w5NNMUMZc=";
+      sha256 = "sha256-m+Zxfco4TYTdLWutC8eVKCVtt8VjJgN7FEqPiWlovE4=";
     };
-    date = "2024-04-09";
+    date = "2024-05-21";
   };
   neovim = {
     pname = "neovim";
-    version = "a1439ad7c584efb3d0ce14ccb835967f030450fe";
+    version = "67565cd353fa543fa30cb738570c2e4c87da3e9c";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "nvim";
-      rev = "a1439ad7c584efb3d0ce14ccb835967f030450fe";
+      rev = "67565cd353fa543fa30cb738570c2e4c87da3e9c";
       fetchSubmodules = false;
-      sha256 = "sha256-yTVou/WArEWygBBs2NFPI9Dm9iSGfwVftKFbOAGl8tk=";
+      sha256 = "sha256-l8FVsgBIIqZWzRblDTIJ07Sg5n9xvKrttNzTve/9XSs=";
     };
-    date = "2024-04-14";
+    date = "2024-06-20";
   };
   palette = {
     pname = "palette";
-    version = "408f081b6402d5d17b8324b75c6db5998100757d";
+    version = "7f17f46c5d3d86f4c8d17fef07d97459744e1157";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "palette";
-      rev = "408f081b6402d5d17b8324b75c6db5998100757d";
+      rev = "7f17f46c5d3d86f4c8d17fef07d97459744e1157";
       fetchSubmodules = false;
-      sha256 = "sha256-JxwBb2JtDBVm8JPeshQfnjwEPZRbUqgKlDHybJ7LQrs=";
+      sha256 = "sha256-3hX7MDaBPyFPTSoHlke0q1geNEdrOzlrIo9CMe2XUB0=";
     };
-    date = "2024-03-25";
+    date = "2024-06-12";
   };
   polybar = {
     pname = "polybar";
-    version = "989420b24e1f651b176c9d6083ad7c3b90a27f8b";
+    version = "271885f11aeed2900d2fe54d6f37ea639a55da8c";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "polybar";
-      rev = "989420b24e1f651b176c9d6083ad7c3b90a27f8b";
+      rev = "271885f11aeed2900d2fe54d6f37ea639a55da8c";
       fetchSubmodules = false;
-      sha256 = "sha256-2fNqE5r6yMKH6h+rjXF/lnUjK2xc3uO+swCS4oqGenM=";
+      sha256 = "sha256-BB2znvbE3o+paWECjN4aseUUj3Hnzv7z6IUHCbfvywU=";
     };
-    date = "2024-02-03";
+    date = "2024-05-19";
   };
   rio = {
     pname = "rio";
-    version = "a8d3d3c61f828da5f3d6d02d7d489108f6428178";
+    version = "b94a931c2e2156c6b2a80decb1983d41da41a26c";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "rio";
-      rev = "a8d3d3c61f828da5f3d6d02d7d489108f6428178";
+      rev = "b94a931c2e2156c6b2a80decb1983d41da41a26c";
       fetchSubmodules = false;
-      sha256 = "sha256-bT789sEDJl3wQh/yfbmjD/J7XNr2ejOd0UsASguyCQo=";
+      sha256 = "sha256-cN4wb+8t77p5hf5fiG0lc2NzBMcSsxYmmgd3iJcv65o=";
     };
-    date = "2023-12-05";
+    date = "2024-05-20";
   };
   rofi = {
     pname = "rofi";
-    version = "5350da41a11814f950c3354f090b90d4674a95ce";
+    version = "b636a00fd40a7899a8206195464ae8b7f0450a6d";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "rofi";
-      rev = "5350da41a11814f950c3354f090b90d4674a95ce";
+      rev = "b636a00fd40a7899a8206195464ae8b7f0450a6d";
       fetchSubmodules = false;
-      sha256 = "sha256-DNorfyl3C4RBclF2KDgwvQQwixpTwSRu7fIvihPN8JY=";
+      sha256 = "sha256-zA8Zum19pDTgn0KdQ0gD2kqCOXK4OCHBidFpGwrJOqg=";
     };
-    date = "2022-12-31";
+    date = "2024-06-20";
   };
   starship = {
     pname = "starship";
-    version = "5629d2356f62a9f2f8efad3ff37476c19969bd4f";
+    version = "ca2fb0600730fd3958a2cb4d4ca97c401877b365";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "starship";
-      rev = "5629d2356f62a9f2f8efad3ff37476c19969bd4f";
+      rev = "ca2fb0600730fd3958a2cb4d4ca97c401877b365";
       fetchSubmodules = false;
-      sha256 = "sha256-nsRuxQFKbQkyEI4TXgvAjcroVdG+heKX5Pauq/4Ota0=";
+      sha256 = "sha256-KzXO4dqpufxTew064ZLp3zKIXBwbF8Bi+I0Xa63j/lI=";
     };
-    date = "2023-07-13";
+    date = "2024-05-24";
   };
   sway = {
     pname = "sway";
@@ -387,39 +387,39 @@
   };
   tmux = {
     pname = "tmux";
-    version = "a556353d60833367b13739e660d4057a96f2f4fe";
+    version = "e7cd05facc22c18fbab3f718d8ecd6494538fe38";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "tmux";
-      rev = "a556353d60833367b13739e660d4057a96f2f4fe";
+      rev = "e7cd05facc22c18fbab3f718d8ecd6494538fe38";
       fetchSubmodules = false;
-      sha256 = "sha256-i5rnMnkFGOWeRi38euttei/fVIxlrV6dQxemAM+LV0A=";
+      sha256 = "sha256-Sz5o4redRQYNiniwTeFhndGXerVBNGrza6GcKziLdQc=";
     };
-    date = "2024-04-21";
+    date = "2024-06-09";
   };
   tofi = {
     pname = "tofi";
-    version = "2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb";
+    version = "d6106461867c077a5e1d25236e02b7be7c83839e";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "tofi";
-      rev = "2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb";
+      rev = "d6106461867c077a5e1d25236e02b7be7c83839e";
       fetchSubmodules = false;
-      sha256 = "sha256-XUwixvy2WyfaSRHM8cTnOn8lKv+vbhheDA1Z47ap+Mc=";
+      sha256 = "sha256-urvt0ZuCe6iEtHwMUl4K6GDLQat/lV0TqgUOlKs8ykE=";
     };
-    date = "2023-09-30";
+    date = "2024-05-17";
   };
   yazi = {
     pname = "yazi";
-    version = "0846aed69b2a62d29c98e100af0cf55ca729723d";
+    version = "9bfdccc2b78d7493fa5c5983bc176a0bc5fef164";
     src = fetchFromGitHub {
       owner = "catppuccin";
       repo = "yazi";
-      rev = "0846aed69b2a62d29c98e100af0cf55ca729723d";
+      rev = "9bfdccc2b78d7493fa5c5983bc176a0bc5fef164";
       fetchSubmodules = false;
-      sha256 = "sha256-2T41qWMe++3Qxl9veRNHMeRI3eU4+LAueKTss02gYNk=";
+      sha256 = "sha256-a2X9WToZmctD1HZVqN9A512iPd+3dtjRloBEifgteF4=";
     };
-    date = "2024-02-21";
+    date = "2024-06-16";
   };
   zathura = {
     pname = "zathura";
