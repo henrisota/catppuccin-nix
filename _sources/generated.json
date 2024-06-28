@@ -21,7 +21,7 @@
     },
     "bat": {
         "cargoLocks": null,
-        "date": "2024-04-09",
+        "date": "2024-04-25",
         "extract": null,
         "name": "bat",
         "passthru": null,
@@ -33,15 +33,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "bat",
-            "rev": "b8134f01b0ac176f1cf2a7043a5abf5a1a29457b",
-            "sha256": "sha256-gzf0/Ltw8mGMsEFBTUuN33MSFtUP4xhdxfoZFntaycQ=",
+            "rev": "d714cc1d358ea51bfc02550dabab693f70cccea0",
+            "sha256": "sha256-Q5B4NDrfCIK3UAMs94vdXnR42k4AXCqZz6sRn8bzmf4=",
             "type": "github"
         },
-        "version": "b8134f01b0ac176f1cf2a7043a5abf5a1a29457b"
+        "version": "d714cc1d358ea51bfc02550dabab693f70cccea0"
     },
     "bottom": {
         "cargoLocks": null,
-        "date": "2022-12-30",
+        "date": "2024-05-13",
         "extract": null,
         "name": "bottom",
         "passthru": null,
@@ -53,15 +53,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "bottom",
-            "rev": "c0efe9025f62f618a407999d89b04a231ba99c92",
-            "sha256": "sha256-VaHX2I/Gn82wJWzybpWNqU3dPi3206xItOlt0iF6VVQ=",
+            "rev": "66c540ea512187df5f0c6c97312b0c6da7225af0",
+            "sha256": "sha256-Ge2avQXFWEqGPOglJBnH6bjejFGfCyLOqrYcaoAP0XI=",
             "type": "github"
         },
-        "version": "c0efe9025f62f618a407999d89b04a231ba99c92"
+        "version": "66c540ea512187df5f0c6c97312b0c6da7225af0"
     },
     "btop": {
         "cargoLocks": null,
-        "date": "2023-10-07",
+        "date": "2024-05-14",
         "extract": null,
         "name": "btop",
         "passthru": null,
@@ -73,15 +73,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "btop",
-            "rev": "c6469190f2ecf25f017d6120bf4e050e6b1d17af",
-            "sha256": "sha256-jodJl4f2T9ViNqsY9fk8IV62CrpC5hy7WK3aRpu70Cs=",
+            "rev": "21b8d5956a8b07fa52519e3267fb3a2d2e693d17",
+            "sha256": "sha256-UXeTypc15MhjgGUiCrDUZ40m32yH2o1N+rcrEgY6sME=",
             "type": "github"
         },
-        "version": "c6469190f2ecf25f017d6120bf4e050e6b1d17af"
+        "version": "21b8d5956a8b07fa52519e3267fb3a2d2e693d17"
     },
     "cava": {
         "cargoLocks": null,
-        "date": "2024-04-01",
+        "date": "2024-05-25",
         "extract": null,
         "name": "cava",
         "passthru": null,
@@ -93,11 +93,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "cava",
-            "rev": "56c1e69318856a853b28e3ccce500c00099dc051",
-            "sha256": "sha256-FNNEYFurT6Y6rkKrvyAGt+3a+7GO4UE5el2sJ2ZKX2k=",
+            "rev": "6ec25ba688e30f3e5d6004ef6a295e6ba90c64d4",
+            "sha256": "sha256-1+CCUaf8U/NH/eHuYRbQo8inbhSMJ3vji6UH52hrF1s=",
             "type": "github"
         },
-        "version": "56c1e69318856a853b28e3ccce500c00099dc051"
+        "version": "6ec25ba688e30f3e5d6004ef6a295e6ba90c64d4"
     },
     "delta": {
         "cargoLocks": null,
@@ -161,7 +161,7 @@
     },
     "fish": {
         "cargoLocks": null,
-        "date": "2023-11-02",
+        "date": "2024-05-14",
         "extract": null,
         "name": "fish",
         "passthru": null,
@@ -173,15 +173,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "fish",
-            "rev": "0ce27b518e8ead555dec34dd8be3df5bd75cff8e",
-            "sha256": "sha256-Dc/zdxfzAUM5NX8PxzfljRbYvO9f9syuLO8yBr+R3qg=",
+            "rev": "a3b9eb5eaf2171ba1359fe98f20d226c016568cf",
+            "sha256": "sha256-shQxlyoauXJACoZWtRUbRMxmm10R8vOigXwjxBhG8ng=",
             "type": "github"
         },
-        "version": "0ce27b518e8ead555dec34dd8be3df5bd75cff8e"
+        "version": "a3b9eb5eaf2171ba1359fe98f20d226c016568cf"
     },
     "foot": {
         "cargoLocks": null,
-        "date": "2024-01-18",
+        "date": "2024-06-06",
         "extract": null,
         "name": "foot",
         "passthru": null,
@@ -193,11 +193,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "foot",
-            "rev": "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca",
-            "sha256": "sha256-3hK9klXwdHhprG2wUMt7nBfbL1mb/gl+k/MtJUuY000=",
+            "rev": "80756a4d63ea4fae4d0fdd793017370f8b8b12ac",
+            "sha256": "sha256-h6+7ln/i+FRSfWX2aSLhrxFO4mYJgH2pzzhe2Zz9Q4k=",
             "type": "github"
         },
-        "version": "ee5549af72ab78520ac2aa1c671bf5c2d347c8ca"
+        "version": "80756a4d63ea4fae4d0fdd793017370f8b8b12ac"
     },
     "gh-dash": {
         "cargoLocks": null,
@@ -213,15 +213,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "gh-dash",
-            "rev": "cb9fea0b86c300b26f1211079d656d02a7eb2c62",
-            "sha256": "sha256-IpEkLKXCs7H0SH4UDZy9JMcNQPEg/50f/5SlezdnL80=",
+            "rev": "a971447dbb6e43c274ce52697c0bd381735c3c8a",
+            "sha256": "sha256-zbFOjg097LN+FRsagnYOdfaDb0tGNJPYkoxTbYK/4HA=",
             "type": "github"
         },
-        "version": "cb9fea0b86c300b26f1211079d656d02a7eb2c62"
+        "version": "a971447dbb6e43c274ce52697c0bd381735c3c8a"
     },
     "gitui": {
         "cargoLocks": null,
-        "date": "2023-11-13",
+        "date": "2024-05-25",
         "extract": null,
         "name": "gitui",
         "passthru": null,
@@ -233,11 +233,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "gitui",
-            "rev": "39978362b2c88b636cacd55b65d2f05c45a47eb9",
-            "sha256": "sha256-kWaHQ1+uoasT8zXxOxkur+QgZu1wLsOOrP/TL+6cfII=",
+            "rev": "c7661f043cb6773a1fc96c336738c6399de3e617",
+            "sha256": "sha256-CRxpEDShQcCEYtSXwLV5zFB8u0HVcudNcMruPyrnSEk=",
             "type": "github"
         },
-        "version": "39978362b2c88b636cacd55b65d2f05c45a47eb9"
+        "version": "c7661f043cb6773a1fc96c336738c6399de3e617"
     },
     "glamour": {
         "cargoLocks": null,
@@ -281,7 +281,7 @@
     },
     "gtk": {
         "cargoLocks": null,
-        "date": "2024-04-20",
+        "date": "2024-06-02",
         "extract": null,
         "name": "gtk",
         "passthru": null,
@@ -293,15 +293,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "gtk",
-            "rev": "9da440ced621d1bff58676efdcec9f64284c52a6",
-            "sha256": "sha256-pGL8vaE63ss2ZT2FoNDfDkeuCxjcbl02RmwwfHC/Vxg=",
+            "rev": "23b52b5b9cde1e11c07315e79a55804d2ac77e3a",
+            "sha256": "sha256-4tBGN+Rra6C2pjkoLWmNqaYUwpzALsYrn4tkYGUtQl4=",
             "type": "github"
         },
-        "version": "9da440ced621d1bff58676efdcec9f64284c52a6"
+        "version": "23b52b5b9cde1e11c07315e79a55804d2ac77e3a"
     },
     "helix": {
         "cargoLocks": null,
-        "date": "2024-03-30",
+        "date": "2024-06-07",
         "extract": null,
         "name": "helix",
         "passthru": null,
@@ -313,15 +313,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "helix",
-            "rev": "0164c4ca888084df4f511da22c6a0a664b5061d2",
-            "sha256": "sha256-8d+cGlyW0vurrww0vPETCr077JHibUQTpnTUOLjeObs=",
+            "rev": "bbbc0873238ac8979fb11748b322b61507317d50",
+            "sha256": "sha256-eukktvsgW881pHmfWcngFHe9UsIO54/v9VFz49GqGcc=",
             "type": "github"
         },
-        "version": "0164c4ca888084df4f511da22c6a0a664b5061d2"
+        "version": "bbbc0873238ac8979fb11748b322b61507317d50"
     },
     "hyprland": {
         "cargoLocks": null,
-        "date": "2024-04-03",
+        "date": "2024-06-19",
         "extract": null,
         "name": "hyprland",
         "passthru": null,
@@ -333,11 +333,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "hyprland",
-            "rev": "b57375545f5da1f7790341905d1049b1873a8bb3",
-            "sha256": "sha256-XTqpmucOeHUgSpXQ0XzbggBFW+ZloRD/3mFhI+Tq4O8=",
+            "rev": "c388ac55563ddeea0afe9df79d4bfff0096b146b",
+            "sha256": "sha256-xSa/z0Pu+ioZ0gFH9qSo9P94NPkEMovstm1avJ7rvzM=",
             "type": "github"
         },
-        "version": "b57375545f5da1f7790341905d1049b1873a8bb3"
+        "version": "c388ac55563ddeea0afe9df79d4bfff0096b146b"
     },
     "imv": {
         "cargoLocks": null,
@@ -361,7 +361,7 @@
     },
     "k9s": {
         "cargoLocks": null,
-        "date": "2024-03-22",
+        "date": "2024-05-31",
         "extract": null,
         "name": "k9s",
         "passthru": null,
@@ -373,15 +373,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "k9s",
-            "rev": "82eba6feb442932e28facedfb18dfbe79234f180",
-            "sha256": "sha256-VLi7G6Rjmbr6feSOg8aLYJmOb+GyJUKi3k9qod6ut9k=",
+            "rev": "e08b9302aee2b7193d6fcc3a9ffd2f24d2957dbf",
+            "sha256": "sha256-tg+xFNj9wkWFcD9bXDor/VCZVosoAH+8grz5FY5QgnM=",
             "type": "github"
         },
-        "version": "82eba6feb442932e28facedfb18dfbe79234f180"
+        "version": "e08b9302aee2b7193d6fcc3a9ffd2f24d2957dbf"
     },
     "kitty": {
         "cargoLocks": null,
-        "date": "2024-01-10",
+        "date": "2024-06-01",
         "extract": null,
         "name": "kitty",
         "passthru": null,
@@ -393,15 +393,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "kitty",
-            "rev": "d7d61716a83cd135344cbb353af9d197c5d7cec1",
-            "sha256": "sha256-mRFa+40fuJCUrR1o4zMi7AlgjRtFmii4fNsQyD8hIjM=",
+            "rev": "1f99e6682d84fe4d8e3177d3add8d0591607a2ac",
+            "sha256": "sha256-Y51wmGRYDjxbgO/g66+aBA+uOVrQpv2rQIjxbuzm0uk=",
             "type": "github"
         },
-        "version": "d7d61716a83cd135344cbb353af9d197c5d7cec1"
+        "version": "1f99e6682d84fe4d8e3177d3add8d0591607a2ac"
     },
     "lazygit": {
         "cargoLocks": null,
-        "date": "2024-03-31",
+        "date": "2024-06-04",
         "extract": null,
         "name": "lazygit",
         "passthru": null,
@@ -413,11 +413,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "lazygit",
-            "rev": "30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6",
-            "sha256": "sha256-mmNA7MpORvdCb37myo2QqagPK46rxRxD0dvUMsHegEM=",
+            "rev": "21a25afd92327ddea8446ab9171ca7039b431e9e",
+            "sha256": "sha256-jQjg4YHIj321+dLoCxI0bjf2QYKvpINwqeicx9vqZmE=",
             "type": "github"
         },
-        "version": "30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6"
+        "version": "21a25afd92327ddea8446ab9171ca7039b431e9e"
     },
     "mako": {
         "cargoLocks": null,
@@ -441,7 +441,7 @@
     },
     "micro": {
         "cargoLocks": null,
-        "date": "2022-09-27",
+        "date": "2024-06-10",
         "extract": null,
         "name": "micro",
         "passthru": null,
@@ -453,15 +453,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "micro",
-            "rev": "ed8ef015f97c357575b5013e18042c9faa6c068a",
-            "sha256": "sha256-/JwZ+5bLYjZWcV5vH22daLqVWbyJelqRyGa7V0b7EG8=",
+            "rev": "a67be21b9d2cf9f57911bb2cd9a6d8fb2c8d8e5a",
+            "sha256": "sha256-HFzcp3u9U3JrPqJdOYvjOTRDJA5bSE9lH6C5EmUmyrw=",
             "type": "github"
         },
-        "version": "ed8ef015f97c357575b5013e18042c9faa6c068a"
+        "version": "a67be21b9d2cf9f57911bb2cd9a6d8fb2c8d8e5a"
     },
     "mpv": {
         "cargoLocks": null,
-        "date": "2024-04-09",
+        "date": "2024-05-21",
         "extract": null,
         "name": "mpv",
         "passthru": null,
@@ -473,15 +473,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "mpv",
-            "rev": "db31f00b5107320f8882eb8c727060d5eab702c9",
-            "sha256": "sha256-QxPUjd2Y4FpvEg2aYrKkJVkLNfYtESryY+w5NNMUMZc=",
+            "rev": "6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b",
+            "sha256": "sha256-m+Zxfco4TYTdLWutC8eVKCVtt8VjJgN7FEqPiWlovE4=",
             "type": "github"
         },
-        "version": "db31f00b5107320f8882eb8c727060d5eab702c9"
+        "version": "6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b"
     },
     "neovim": {
         "cargoLocks": null,
-        "date": "2024-04-14",
+        "date": "2024-06-28",
         "extract": null,
         "name": "neovim",
         "passthru": null,
@@ -493,15 +493,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "nvim",
-            "rev": "a1439ad7c584efb3d0ce14ccb835967f030450fe",
-            "sha256": "sha256-yTVou/WArEWygBBs2NFPI9Dm9iSGfwVftKFbOAGl8tk=",
+            "rev": "31fcfb02c47952d5c75aec893b93b2878abe5fbb",
+            "sha256": "sha256-4hh1WXWJ2RdycyHXnXaYu4348JCtROlwPym0cAAdCFk=",
             "type": "github"
         },
-        "version": "a1439ad7c584efb3d0ce14ccb835967f030450fe"
+        "version": "31fcfb02c47952d5c75aec893b93b2878abe5fbb"
     },
     "palette": {
         "cargoLocks": null,
-        "date": "2024-03-25",
+        "date": "2024-06-12",
         "extract": null,
         "name": "palette",
         "passthru": null,
@@ -513,15 +513,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "palette",
-            "rev": "408f081b6402d5d17b8324b75c6db5998100757d",
-            "sha256": "sha256-JxwBb2JtDBVm8JPeshQfnjwEPZRbUqgKlDHybJ7LQrs=",
+            "rev": "7f17f46c5d3d86f4c8d17fef07d97459744e1157",
+            "sha256": "sha256-3hX7MDaBPyFPTSoHlke0q1geNEdrOzlrIo9CMe2XUB0=",
             "type": "github"
         },
-        "version": "408f081b6402d5d17b8324b75c6db5998100757d"
+        "version": "7f17f46c5d3d86f4c8d17fef07d97459744e1157"
     },
     "polybar": {
         "cargoLocks": null,
-        "date": "2024-02-03",
+        "date": "2024-05-19",
         "extract": null,
         "name": "polybar",
         "passthru": null,
@@ -533,15 +533,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "polybar",
-            "rev": "989420b24e1f651b176c9d6083ad7c3b90a27f8b",
-            "sha256": "sha256-2fNqE5r6yMKH6h+rjXF/lnUjK2xc3uO+swCS4oqGenM=",
+            "rev": "271885f11aeed2900d2fe54d6f37ea639a55da8c",
+            "sha256": "sha256-BB2znvbE3o+paWECjN4aseUUj3Hnzv7z6IUHCbfvywU=",
             "type": "github"
         },
-        "version": "989420b24e1f651b176c9d6083ad7c3b90a27f8b"
+        "version": "271885f11aeed2900d2fe54d6f37ea639a55da8c"
     },
     "rio": {
         "cargoLocks": null,
-        "date": "2023-12-05",
+        "date": "2024-05-20",
         "extract": null,
         "name": "rio",
         "passthru": null,
@@ -553,15 +553,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "rio",
-            "rev": "a8d3d3c61f828da5f3d6d02d7d489108f6428178",
-            "sha256": "sha256-bT789sEDJl3wQh/yfbmjD/J7XNr2ejOd0UsASguyCQo=",
+            "rev": "b94a931c2e2156c6b2a80decb1983d41da41a26c",
+            "sha256": "sha256-cN4wb+8t77p5hf5fiG0lc2NzBMcSsxYmmgd3iJcv65o=",
             "type": "github"
         },
-        "version": "a8d3d3c61f828da5f3d6d02d7d489108f6428178"
+        "version": "b94a931c2e2156c6b2a80decb1983d41da41a26c"
     },
     "rofi": {
         "cargoLocks": null,
-        "date": "2022-12-31",
+        "date": "2024-06-20",
         "extract": null,
         "name": "rofi",
         "passthru": null,
@@ -573,15 +573,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "rofi",
-            "rev": "5350da41a11814f950c3354f090b90d4674a95ce",
-            "sha256": "sha256-DNorfyl3C4RBclF2KDgwvQQwixpTwSRu7fIvihPN8JY=",
+            "rev": "b636a00fd40a7899a8206195464ae8b7f0450a6d",
+            "sha256": "sha256-zA8Zum19pDTgn0KdQ0gD2kqCOXK4OCHBidFpGwrJOqg=",
             "type": "github"
         },
-        "version": "5350da41a11814f950c3354f090b90d4674a95ce"
+        "version": "b636a00fd40a7899a8206195464ae8b7f0450a6d"
     },
     "starship": {
         "cargoLocks": null,
-        "date": "2023-07-13",
+        "date": "2024-05-24",
         "extract": null,
         "name": "starship",
         "passthru": null,
@@ -593,11 +593,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "starship",
-            "rev": "5629d2356f62a9f2f8efad3ff37476c19969bd4f",
-            "sha256": "sha256-nsRuxQFKbQkyEI4TXgvAjcroVdG+heKX5Pauq/4Ota0=",
+            "rev": "ca2fb0600730fd3958a2cb4d4ca97c401877b365",
+            "sha256": "sha256-KzXO4dqpufxTew064ZLp3zKIXBwbF8Bi+I0Xa63j/lI=",
             "type": "github"
         },
-        "version": "5629d2356f62a9f2f8efad3ff37476c19969bd4f"
+        "version": "ca2fb0600730fd3958a2cb4d4ca97c401877b365"
     },
     "sway": {
         "cargoLocks": null,
@@ -641,7 +641,7 @@
     },
     "tmux": {
         "cargoLocks": null,
-        "date": "2024-04-21",
+        "date": "2024-06-09",
         "extract": null,
         "name": "tmux",
         "passthru": null,
@@ -653,15 +653,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "tmux",
-            "rev": "a556353d60833367b13739e660d4057a96f2f4fe",
-            "sha256": "sha256-i5rnMnkFGOWeRi38euttei/fVIxlrV6dQxemAM+LV0A=",
+            "rev": "e7cd05facc22c18fbab3f718d8ecd6494538fe38",
+            "sha256": "sha256-Sz5o4redRQYNiniwTeFhndGXerVBNGrza6GcKziLdQc=",
             "type": "github"
         },
-        "version": "a556353d60833367b13739e660d4057a96f2f4fe"
+        "version": "e7cd05facc22c18fbab3f718d8ecd6494538fe38"
     },
     "tofi": {
         "cargoLocks": null,
-        "date": "2023-09-30",
+        "date": "2024-05-17",
         "extract": null,
         "name": "tofi",
         "passthru": null,
@@ -673,15 +673,15 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "tofi",
-            "rev": "2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb",
-            "sha256": "sha256-XUwixvy2WyfaSRHM8cTnOn8lKv+vbhheDA1Z47ap+Mc=",
+            "rev": "d6106461867c077a5e1d25236e02b7be7c83839e",
+            "sha256": "sha256-urvt0ZuCe6iEtHwMUl4K6GDLQat/lV0TqgUOlKs8ykE=",
             "type": "github"
         },
-        "version": "2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb"
+        "version": "d6106461867c077a5e1d25236e02b7be7c83839e"
     },
     "yazi": {
         "cargoLocks": null,
-        "date": "2024-02-21",
+        "date": "2024-06-16",
         "extract": null,
         "name": "yazi",
         "passthru": null,
@@ -693,11 +693,11 @@
             "name": null,
             "owner": "catppuccin",
             "repo": "yazi",
-            "rev": "0846aed69b2a62d29c98e100af0cf55ca729723d",
-            "sha256": "sha256-2T41qWMe++3Qxl9veRNHMeRI3eU4+LAueKTss02gYNk=",
+            "rev": "9bfdccc2b78d7493fa5c5983bc176a0bc5fef164",
+            "sha256": "sha256-a2X9WToZmctD1HZVqN9A512iPd+3dtjRloBEifgteF4=",
             "type": "github"
         },
-        "version": "0846aed69b2a62d29c98e100af0cf55ca729723d"
+        "version": "9bfdccc2b78d7493fa5c5983bc176a0bc5fef164"
     },
     "zathura": {
         "cargoLocks": null,
